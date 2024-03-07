@@ -1,0 +1,52 @@
+a {
+    color: #f61f1f;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 20px;
+}
+*
+{
+    font-family:Trebuchet MS;
+    background-color:bisque;
+}
+h1 {
+    color: #4CAF50;
+
+}
+
+h2 {
+    color: #333;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #333;
+    text-align:center;
+}
+#logo{
+    width:10vw;
+    height:15vh;
+    position:fixed;
+    top:0;
+    right:0;
+}

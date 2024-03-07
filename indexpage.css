@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:bisque;
+}
+*{
+    font-family:cursive;
+}
+#logo{
+    width:10vw;
+    height:15vh;
+    position:fixed;
+    top:0;
+    right:0;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.product {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color:white;
+    margin:10px;
+}
+img{
+    width:400px;
+    height:50vh;
+}
+.back{
+    width:1400px;
+    height:200px;
+}
